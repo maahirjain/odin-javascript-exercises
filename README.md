@@ -1,5 +1,9 @@
 # JavaScript Exercises
 
+This repository was [mirrored](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository#mirroring-a-repository) from [TheOdinProject/javascript-exercises](https://github.com/TheOdinProject/javascript-exercises). Each exercise completed contains an additional directory `my_solution`, which contains my solution to the exercise.
+
+-----
+
 These JavaScript exercises are intended to complement the JavaScript content on [The Odin Project](https://www.theodinproject.com/) (TOP). They should only be done when instructed during the course of the curriculum.
 
 ## Contributing
