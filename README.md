@@ -1,6 +1,6 @@
 # JavaScript Exercises
 
-This repository was [mirrored](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository#mirroring-a-repository) from [TheOdinProject/javascript-exercises](https://github.com/TheOdinProject/javascript-exercises). Each exercise completed contains an additional directory `my_solution`, which contains my solution to the exercise.
+This repository was [mirrored](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository#mirroring-a-repository) from [TheOdinProject/javascript-exercises](https://github.com/TheOdinProject/javascript-exercises). Each exercise contains an additional directory `my_solution`, which contains my solution to the exercise.
 
 -----
 
